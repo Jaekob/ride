@@ -1,0 +1,12 @@
+[package]
+name = "ride"
+authors = ["Jaekob Childress"]
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.14"
+bevy_egui = "0.29"
+bevy_winit = "0.14.2"
+egui = "0.28"
+winit = "0.30"
