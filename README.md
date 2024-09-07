@@ -71,7 +71,3 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-This version better reflects your use of **Bevy**, **egui**, and **winit** as core technologies and emphasizes the GUI nature of the IDE. Let me know if this works or if you'd like further adjustments!
